@@ -1,0 +1,5 @@
+train: ../pipe_det_data_08_04_21/train/images
+val: ../pipe_det_data_08_04_21/valid/images
+
+nc: 2
+names: ['0', '1']
