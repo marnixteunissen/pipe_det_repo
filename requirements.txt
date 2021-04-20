@@ -28,3 +28,7 @@ pandas
 # extras --------------------------------------
 thop  # FLOPS computation
 pycocotools>=2.0  # COCO mAP
+virtualenvwrapper
+
+# Realsense -----------------------------------
+pyrealsense2
